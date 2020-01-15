@@ -77,9 +77,9 @@ h1, h2, h3, h4, h5 {
 .HeaderImage{
 	display:inline-block;
 	width: 35%;
-	border: 1px black solid;
+	
 	max-width: 100%;
-	margin-left: 10%;
+	margin-left: 12%;
 	margin-top: 5%;
 
 }
@@ -112,6 +112,9 @@ h1, h2, h3, h4, h5 {
 #Body{
 	margin-left: 5%;
 	margin-right: 5%;
+	margin-bottom: 10%;
+	margin-top: 1%;
+	
 }
 header{
 	border-bottom: solid black 3px;
@@ -146,7 +149,7 @@ header{
 	  width: 40%;
 	  font-size: 600%;
 	  text-align:center;
-	  border: red 2px solid;
+	  
 	  margin-bottom: 5%;
 	  max-width: 100%;
   }
@@ -155,4 +158,7 @@ header{
 	width: 20%;
 	border: 1px gray solid;
   }
-  
+  .Bottom{
+	  line-height: 20px;
+  }
+ 
